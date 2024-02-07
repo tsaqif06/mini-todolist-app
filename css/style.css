@@ -46,6 +46,10 @@ body {
 	animation: waveAnimation 10s ease infinite;
 }
 
+hr {
+	border: 1px solid #5f30e2;
+}
+
 .wrapper {
 	display: flex;
 	flex-direction: column;
@@ -283,7 +287,6 @@ footer {
 
 footer hr {
 	text-align: center;
-	color: white;
 	width: 40%;
 	margin: 20px auto;
 }
